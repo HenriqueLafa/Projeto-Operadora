@@ -1,0 +1,40 @@
+C:\Users\Admin\Desktop\projeto loja\projeto loja\bin\Debug\projeto loja.exe.config
+C:\Users\Admin\Desktop\projeto loja\projeto loja\bin\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\projeto loja\projeto loja\bin\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto_loja.Form1.resources
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto_loja.Properties.Resources.resources
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\projeto loja\projeto loja\obj\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\bin\Debug\projeto loja.exe.config
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\bin\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\bin\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto_loja.Form1.resources
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto_loja.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\Nova pasta\projeto loja\projeto loja\obj\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\bin\Debug\projeto loja.exe.config
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\bin\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\bin\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto_loja.Form1.resources
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto_loja.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\Nova pasta (3)\projeto loja\projeto loja\obj\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\bin\Debug\projeto loja.exe.config
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\bin\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\bin\Debug\projeto loja.pdb
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto_loja.Form1.resources
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto_loja.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto loja.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto loja.exe
+C:\Users\Admin\Desktop\Nova pasta (2)\projeto loja\projeto loja\obj\Debug\projeto loja.pdb

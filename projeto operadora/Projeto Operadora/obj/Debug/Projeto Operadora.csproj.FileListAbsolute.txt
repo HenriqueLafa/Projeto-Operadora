@@ -1,0 +1,40 @@
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.exe.config
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.exe
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.pdb
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto_Operadora.Form1.resources
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto_Operadora.Properties.Resources.resources
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.exe
+C:\Users\CP\Desktop\Nova pasta (2)\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.pdb
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto_Operadora.Form1.resources
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto_Operadora.Properties.Resources.resources
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto Operadora.exe
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\obj\Debug\Projeto Operadora.pdb
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\bin\Debug\Projeto Operadora.exe.config
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\bin\Debug\Projeto Operadora.exe
+C:\Users\CP\Desktop\Nova pasta\Projeto Operadora\bin\Debug\Projeto Operadora.pdb
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.exe.config
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.exe
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.pdb
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto_Operadora.Form1.resources
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto_Operadora.Properties.Resources.resources
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.exe
+C:\Users\CP\Desktop\Nova pasta\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.pdb
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.exe.config
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.exe
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\bin\Debug\Projeto Operadora.pdb
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.AssemblyReference.cache
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto_Operadora.Form1.resources
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto_Operadora.Properties.Resources.resources
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.GenerateResource.cache
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.csproj.CoreCompileInputs.cache
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.exe
+C:\Users\Deva\Desktop\Nova pasta (3)\projeto operadora-20250318T190045Z-001\projeto operadora\Projeto Operadora\obj\Debug\Projeto Operadora.pdb

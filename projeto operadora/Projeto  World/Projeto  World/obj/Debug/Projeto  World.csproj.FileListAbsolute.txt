@@ -1,0 +1,10 @@
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\bin\Debug\Projeto  World.exe.config
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\bin\Debug\Projeto  World.exe
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\bin\Debug\Projeto  World.pdb
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto  World.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto__World.Properties.Resources.resources
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto  World.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto  World.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto  World.exe
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto  World.pdb
+C:\Users\CP\Desktop\Projeto  World\Projeto  World\obj\Debug\Projeto__World.Form1.resources
